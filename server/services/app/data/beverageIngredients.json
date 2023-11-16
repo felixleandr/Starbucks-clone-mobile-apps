@@ -1,0 +1,166 @@
+[
+    {
+        "BeverageId": 1,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 1,
+        "IngredientId": 2
+    },
+    {
+        "BeverageId": 2,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 2,
+        "IngredientId": 2
+    },
+    {
+        "BeverageId": 3,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 3,
+        "IngredientId": 2
+    },
+    {
+        "BeverageId": 3,
+        "IngredientId": 4
+    },
+    {
+        "BeverageId": 4,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 4,
+        "IngredientId": 2
+    },
+    {
+        "BeverageId": 4,
+        "IngredientId": 6
+    },
+    {
+        "BeverageId": 5,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 5,
+        "IngredientId": 3
+    },
+    {
+        "BeverageId": 6,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 6,
+        "IngredientId": 8
+    },
+    {
+        "BeverageId": 6,
+        "IngredientId": 2
+    },
+    {
+        "BeverageId": 7,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 7,
+        "IngredientId": 3
+    },
+    {
+        "BeverageId": 8,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 8,
+        "IngredientId": 2
+    },
+    {
+        "BeverageId": 9,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 9,
+        "IngredientId": 3
+    },
+    {
+        "BeverageId": 10,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 10,
+        "IngredientId": 2
+    },
+    {
+        "BeverageId": 10,
+        "IngredientId": 9
+    },
+    {
+        "BeverageId": 11,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 11,
+        "IngredientId": 2
+    },
+    {
+        "BeverageId": 11,
+        "IngredientId": 10
+    },
+    {
+        "BeverageId": 12,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 12,
+        "IngredientId": 3
+    },
+    {
+        "BeverageId": 12,
+        "IngredientId": 10
+    },
+    {
+        "BeverageId": 13,
+        "IngredientId": 1
+    },
+    {
+        "BeverageId": 13,
+        "IngredientId": 6
+    },
+    {
+        "BeverageId": 13,
+        "IngredientId": 10
+    },
+    {
+        "BeverageId": 14,
+        "IngredientId": 2
+    },
+    {
+        "BeverageId": 14,
+        "IngredientId": 4
+    },
+    {
+        "BeverageId": 14,
+        "IngredientId": 8
+    },
+    {
+        "BeverageId": 15,
+        "IngredientId": 7
+    },
+    {
+        "BeverageId": 15,
+        "IngredientId": 3
+    },
+    {
+        "BeverageId": 16,
+        "IngredientId": 7
+    },
+    {
+        "BeverageId": 16,
+        "IngredientId": 5
+    },
+    {
+        "BeverageId": 16,
+        "IngredientId": 7
+    }
+]

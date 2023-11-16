@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Caffe Latte",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177502.jpg",
+        "description": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+        "price": 45000,
+        "CategoryId": 1,
+        "AuthorId": "654cbb44d707b52cad0ce81a"
+    },
+    {
+        "name": "Cappucino",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177603.jpg",
+        "description": "Espresso with steamed milk, topped with a deep layer of foam.",
+        "price": 45000,
+        "CategoryId": 1,
+        "AuthorId": "654cbb44d707b52cad0ce81b"
+    },
+    {
+        "name": "Caffe Mocha",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177734.jpg",
+        "description": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
+        "price": 55000,
+        "CategoryId": 1,
+        "AuthorId": "654cbb44d707b52cad0ce81a"
+    },
+    {
+        "name": "Caramel Macchiato",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177837.jpg",
+        "description": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; it’s then topped with our proprietary buttery caramel sauce. Sweet!",
+        "price": 55000,
+        "CategoryId": 1,
+        "AuthorId": "654cbb44d707b52cad0ce81b"
+    },
+    {
+        "name": "Caffe Americano",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648177928.jpg",
+        "description": "HOT: Rich, full-bodied espresso with hot water.",
+        "price": 35000,
+        "CategoryId": 1,
+        "AuthorId": "654cbb44d707b52cad0ce81a"
+    },
+    {
+        "name": "Espresso Con Panna",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648178043.jpg",
+        "description": "The delicate dollop of whipped cream softens the rich and caramelly espresso flavours so exquisitely, you may choose to forego adding sugar altogether.",
+        "price": 58000,
+        "CategoryId": 1,
+        "AuthorId": "654cbb44d707b52cad0ce81b"
+    },
+    {
+        "name": "Freshly Brewed Coffee",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648178862.jpg",
+        "description": "Enjoy our rich, flavorful brewed coffees any time of day. Brewed perfectly for those who enjoy their coffee black, check in with our baristas on our selected brew of the day.",
+        "price": 55000,
+        "CategoryId": 2,
+        "AuthorId": "654cbb44d707b52cad0ce81a"
+    },
+    {
+        "name": "Misto",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648179252.jpg",
+        "description": "Equal parts fresh filter coffee and frothy steamed milk.",
+        "price": 45000,
+        "CategoryId": 2,
+        "AuthorId": "654cbb44d707b52cad0ce81b"
+    },
+    {
+        "name": "Cold Brew",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648179326.jpg",
+        "description": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals. We specifically developed the Starbucks® Cold Brew Blend to heighten the rich, naturally sweet flavor created during the cold brewing process.",
+        "price": 50000,
+        "CategoryId": 2,
+        "AuthorId": "654cbb44d707b52cad0ce81a"
+    },
+    {
+        "name": "Vanilla Sweet Cream Cold Brew",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648179465.jpg",
+        "description": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+        "price": 62000,
+        "CategoryId": 2,
+        "AuthorId": "654cbb44d707b52cad0ce81b"
+    },
+    {
+        "name": "Coffee Frappucino",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648475425.jpg",
+        "description": "Starbucks® coffee is blended with nonfat milk and ice for a sip on the light side.",
+        "price": 62000,
+        "CategoryId": 3,
+        "AuthorId": "654cbb44d707b52cad0ce81a"
+    },
+    {
+        "name": "Mocha Frappucino",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648475606.jpg",
+        "description": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
+        "price": 62000,
+        "CategoryId": 3,
+        "AuthorId": "654cbb44d707b52cad0ce81b"
+    },
+    {
+        "name": "Caramel Frappucino",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648475750.jpg",
+        "description": "Buttery caramel syrup meets coffee, milk and ice for a rendezvous in the blender. Then whipped cream and caramel sauce layer the love on top.",
+        "price": 62000,
+        "CategoryId": 3,
+        "AuthorId": "654cbb44d707b52cad0ce81a"
+    },
+    {
+        "name": "Signature Chocolate",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648480637.jpg",
+        "description": "Chocolate and dairy milk, steamed together to create a hot chocolate fit for a chocaholic! Topped with whipped cream and dusted with cocoa.",
+        "price": 65000,
+        "CategoryId": 4,
+        "AuthorId": "654cbb44d707b52cad0ce81b"
+    },
+    {
+        "name": "Green Tea Latte",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648608894.jpg",
+        "description": "Smooth and creamy matcha is lightly sweetened and served with steamed milk.",
+        "price": 55000,
+        "CategoryId": 4,
+        "AuthorId": "654cbb44d707b52cad0ce81b"
+    },
+    {
+        "name": "Chai Tea Latte",
+        "imgUrl": "https://www.starbucks.co.id/storage/image/temporary/summernote_image_1648608998.jpg",
+        "description": "A less-sweet take on our beloved Classic Chai Tea Latte. Black tea--infused with cinnamon, clove and other warming spices--is steamed with milk and sweetened with liquid cane sugar.",
+        "price": 55000,
+        "CategoryId": 4,
+        "AuthorId": "654cbb44d707b52cad0ce81a"
+    }
+]
