@@ -19,6 +19,7 @@ import { GET_BEVS } from "../config/apolloQuery";
 export default function HomeView() {
 
   const { loading, error, data } = useQuery(GET_BEVS)
+  console.log(error, 'nando');
 
   // console.log(loading, error, data, 'ini');
   if(loading) return (
